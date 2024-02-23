@@ -1,6 +1,6 @@
 <?php
 
-funtion show($stuff)
+function show($stuff)
 {
     echo '<pre>';
     print_r($stuff);
