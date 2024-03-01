@@ -22,7 +22,7 @@ class App
             }
             else
             {
-                $this ->controller = '_404';
+                $this->controller = '_404';
             }
         }
 
